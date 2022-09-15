@@ -1,1 +1,1 @@
-this is a dummy txt file to show how to push a txt file to git
+this is a CHANGED dummy txt file to show how to push a txt file to git
